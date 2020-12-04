@@ -10,4 +10,3 @@ function multiply(){
 function divide(){
 
 }
-
