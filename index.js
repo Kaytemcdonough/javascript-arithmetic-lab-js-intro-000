@@ -8,5 +8,5 @@ function multiply(){
 
 }
 function divide(){
-  
+
 }
